@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://antidolgi.github.io/banan817/sitemap.xml
+
+# Block admin areas if added later
+Disallow: /admin/
+Disallow: /private/
